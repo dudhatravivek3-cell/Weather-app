@@ -814,6 +814,12 @@
   width: 100%;
 }
 
+.footer a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+
 .footer p {
   margin: 0;
   font-size: 0.85rem;
